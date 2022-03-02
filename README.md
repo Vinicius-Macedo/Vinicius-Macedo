@@ -1,4 +1,6 @@
-<h1>Olá 👋</h1>
+<h1>Olá, me chamo Vinícius, deixe-me apresentar 👋</h1>
+
+<hr>
 
 <!--
 **Vinicius-Macedo/Vinicius-Macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
