@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente estudando **php** e **mysql**
 
-- 🔭 Estou buscando oportunidades de **trabalhos** e **freela**
+- 🔭 Estou buscando oportunidades de **trabalhos** e **freelas**
 
 - 👨‍💻 Todos os meus trabalhos estão disponíveis [**nesse perfil**](https://github.com/Vinicius-Macedo?tab=repositories) e no [**instagram**](https://www.instagram.com/viniciusportfolio/)
 
