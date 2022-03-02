@@ -1,18 +1,32 @@
-<h1>Olá, me chamo Vinícius, deixe-me apresentar 👋</h1>
+<img align="right" height="590em"
+  src="https://raw.githubusercontent.com/gist/Vinicius-Macedo/10113a156dbfd44e74f8691ecc29cbc2/raw/ee79961254013aecbb561cdd3decdbb478bd0860/githubcard.svg"
+     />
 
-<hr>
+<h1>Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Vinícius, deixe-me apresentar </h1>
 
-<!--
-**Vinicius-Macedo/Vinicius-Macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Sou um desenvolvedor web Júnior
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estudando **php** e **mysql**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou buscando oportunidades de **trabalhos** e **freela**
+
+- 👨‍💻 Todos os meus trabalhos estão disponíveis [**nesse perfil**](https://github.com/Vinicius-Macedo?tab=repositories) e no [**instagram**](https://www.instagram.com/viniciusportfolio/)
+
+- 💬 Posso te ajudar com **ui/ux, html/css, scss e javascript (talvez php e mysql também 😁)**
+
+- 📞 Você pode falar comigo [**clicando aqui**](https://wa.me/55933457661)
+
+- ⚡ Fato aleatório **você perdeu** [**o jogo**](https://en.wikipedia.org/wiki/The_Game_(mind_game)) 😜
+
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Mysql](https://img.shields.io/badge/-mysql%20em%20progresso-05122A?style=flat&logo=Mysql)&nbsp;
+![Php](https://img.shields.io/badge/-php%20em%20progresso-05122A?style=flat&logo=php)&nbsp;
