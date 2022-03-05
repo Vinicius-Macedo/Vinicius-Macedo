@@ -30,3 +30,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Mysql](https://img.shields.io/badge/-mysql%20em%20progresso-05122A?style=flat&logo=Mysql)&nbsp;
 ![Php](https://img.shields.io/badge/-php%20em%20progresso-05122A?style=flat&logo=php)&nbsp;
+![Php](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
