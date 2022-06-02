@@ -31,3 +31,6 @@
 ![Mysql](https://img.shields.io/badge/-mysql%20em%20progresso-05122A?style=flat&logo=Mysql)&nbsp;
 ![Php](https://img.shields.io/badge/-php%20em%20progresso-05122A?style=flat&logo=php)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind)&nbsp; 
+
+
