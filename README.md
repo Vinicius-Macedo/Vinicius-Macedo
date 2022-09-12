@@ -6,13 +6,13 @@
 
 - 🔥 Sou um desenvolvedor web Júnior
 
-- 🌱 Atualmente estudando **php** e **mysql**
+- 🌱 Atualmente estudando **React** e **GraphQL**
 
-- 🔭 Estou buscando oportunidades de **trabalhos** e **freelas**
+- 🔭 Estou buscando oportunidades de **trabalho** e **freela**
 
 - 👨‍💻 Todos os meus trabalhos estão disponíveis [**nesse perfil**](https://github.com/Vinicius-Macedo?tab=repositories) e no [**instagram**](https://www.instagram.com/viniciusportfolio/)
 
-- 💬 Posso te ajudar com **ui/ux, html/css, scss e javascript (talvez php e mysql também 😁)**
+- 💬 Posso te ajudar com **ui/ux, html/css/js, sass, tailwind, bootstrap e ReactJS (talvez php e mysql também 😁)**
 
 - 📞 Você pode falar comigo [**clicando aqui**](https://wa.me/55933457661)
 
@@ -31,6 +31,7 @@
 ![Mysql](https://img.shields.io/badge/-mysql%20em%20progresso-05122A?style=flat&logo=Mysql)&nbsp;
 ![Php](https://img.shields.io/badge/-php%20em%20progresso-05122A?style=flat&logo=php)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind)&nbsp; 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind)&nbsp;
+![React](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
 
 
