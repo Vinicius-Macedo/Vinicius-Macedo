@@ -32,6 +32,7 @@
 ![Php](https://img.shields.io/badge/-php%20em%20progresso-05122A?style=flat&logo=php)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=white)&nbsp
 ![React](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
 
 
