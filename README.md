@@ -1,15 +1,13 @@
 <h1>Olá, eu sou o Vinícius Macedo! 👋</h1>
 
-Desenvolvedor Full Stack apaixonado por criar soluções digitais eficientes e escaláveis. Com ampla experiência em **Golang**, **WordPress**, **React**, **PHP** e automação de sistemas, trabalho atualmente como Desenvolvedor Full Stack na TAGDIGI e como Desenvolvedor Front End na Wise | BTG Pactual.
-
 ---
 
 ## 👨‍💻 Sobre Mim
 
-- 💼 **Desenvolvedor Full Stack** com expertise em criação de plugins personalizados, automação de landing pages, integração de APIs e arquitetura de sistemas backend.
-- 🎯 **Especializado em Golang**, com experiência em projetos de grande escala e foco em otimização de performance.
-- 🌱 Sempre aprimorando habilidades em **SEO**, **automação** e **concorrência em Golang**.
-- 💬 Acredito no poder da colaboração e em soluções digitais que geram impacto para o usuário.
+- 💼 Desenvolvedor Golang com experiência em PHP, WordPress, React e UI/UX.
+- 🌱 Atualmente estudando sobre infraestrutura e microserviços no backend.
+- ⚡ Sempre em busca de soluções escaláveis e eficientes.
+
 
 ---
 
@@ -30,5 +28,3 @@ Desenvolvedor Full Stack apaixonado por criar soluções digitais eficientes e e
 ## 📬 Entre em Contato
 
 - **LinkedIn**: [goviniciusmacedo](https://www.linkedin.com/in/goviniciusmacedo)
-
-Vamos criar algo incrível juntos!
