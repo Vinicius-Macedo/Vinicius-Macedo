@@ -1,12 +1,12 @@
-<h1>Olá, eu sou o Vinícius Macedo! 👋</h1>
+<h1>Hi, I'm Vinícius Macedo! 👋</h1>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About me
 
-- 💼 Desenvolvedor Golang com experiência em PHP, WordPress, React e UI/UX.
-- 🌱 Atualmente estudando sobre infraestrutura e microserviços no backend.
-- ⚡ Sempre em busca de soluções escaláveis e eficientes.
+- 💼 Golang Developer with experience in PHP, WordPress, React, and UI/UX.
+- 🌱 Currently studying infrastructure and microservices in backend development.
+- ⚡ Always seeking scalable and efficient solutions.
 
 
 ---
@@ -25,6 +25,6 @@
 
 ---
 
-## 📬 Entre em Contato
+## 📬 Contact me
 
 - **LinkedIn**: [goviniciusmacedo](https://www.linkedin.com/in/goviniciusmacedo)
